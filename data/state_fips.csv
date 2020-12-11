@@ -1,0 +1,61 @@
+﻿State/District,Abbreviation,Postal Code,FIPS
+Alabama,Ala.,AL,1
+Alaska,Alaska,AK,2
+Arizona,Ariz.,AZ,4
+Arkansas,Ark.,AR,5
+California,Calif.,CA,6
+Colorado,Colo.,CO,8
+Connecticut,Conn.,CT,9
+Delaware,Del.,DE,10
+District of Columbia,D.C.,DC,11
+Florida,Fla.,FL,12
+Georgia,Ga.,GA,13
+Hawaii,Hawaii,HI,15
+Idaho,Idaho,ID,16
+Illinois,Ill.,IL,17
+Indiana,Ind.,IN,18
+Iowa,Iowa,IA,19
+Kansas,Kans.,KS,20
+Kentucky,Ky.,KY,21
+Louisiana,La.,LA,22
+Maine,Maine,ME,23
+Maryland,Md.,MD,24
+Massachusetts,Mass.,MA,25
+Michigan,Mich.,MI,26
+Minnesota,Minn.,MN,27
+Mississippi,Miss.,MS,28
+Missouri,Mo.,MO,29
+Montana,Mont.,MT,30
+Nebraska,Nebr.,NE,31
+Nevada,Nev.,NV,32
+New Hampshire,N.H.,NH,33
+New Jersey,N.J.,NJ,34
+New Mexico,N.M.,NM,35
+New York,N.Y.,NY,36
+North Carolina,N.C.,NC,37
+North Dakota,N.D.,ND,38
+Ohio,Ohio,OH,39
+Oklahoma,Okla.,OK,40
+Oregon,Ore.,OR,41
+Pennsylvania,Pa.,PA,42
+Rhode Island,R.I.,RI,44
+South Carolina,S.C.,SC,45
+South Dakota,S.D.,SD,46
+Tennessee,Tenn.,TN,47
+Texas,Tex.,TX,48
+Utah,Utah,UT,49
+Vermont,Vt.,VT,50
+Virginia,Va.,VA,51
+Washington,Wash.,WA,53
+West Virginia,W.Va.,WV,54
+Wisconsin,Wis.,WI,55
+Wyoming,Wyo.,WY,56
+American Samoa,,AS,60
+Micronesia,,FM,64
+Guam,,GU,66
+Marshall Islands,,MH,68
+Northern Mariana Islands,,MP,69
+Northern Marianas,,MP,69
+Palau,,PW,70
+Puerto Rico,P.R.,PR,72
+Virgin Islands,,VI,78
